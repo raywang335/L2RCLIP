@@ -2,7 +2,7 @@
 
 The official implementation of the paper "Learning-to-Rank Meets Language: Boosting Language-Driven Ordering Alignment for Ordinal Classification" is available.
 
-<a href="https://arxiv.org/abs/2306.13856"><img src="https://img.shields.io/badge/arXiv-2008.00951-b31b1b.svg" height=22.5></a>
+<a href="https://arxiv.org/abs/2306.13856"><img src="https://img.shields.io/badge/arXiv-2306.13856-b31b1b.svg" height=22.5></a>
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" height=22.5></a>
 
 ## Code is coming soon.
