@@ -26,7 +26,7 @@ Check out these amazing works leveraging CLIP for number/rank problems!
 
 ## Citation
 
-If you use this code for your research, please cite our paper `<a href="https://arxiv.org/abs/2306.13856">`L2RCLIP: Boosting Language-Driven Ordering Alignment for Ordinal Classification`</a>`:
+If you use this code for your research, please cite our paper <a href="https://arxiv.org/abs/2306.13856">L2RCLIP: Boosting Language-Driven Ordering Alignment for Ordinal Classification</a>:
 
 ```
 @article{wang2023learning,
