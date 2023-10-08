@@ -17,6 +17,13 @@ The official implementation of the paper "Learning-to-Rank Meets Language: Boost
 
 This codebase is from [CLIP-ReID](https://github.com/Syliz517/CLIP-ReID), [CLIP](https://github.com/openai/CLIP) and [OrdinalEntropy](https://github.com/needylove/OrdinalEntropy).
 
+## What's More
+
+Check out these amazing works leveraging CLIP for number/rank problems!
+
+- OrdinalCLIP(NeurIPS22). [Paper](https://arxiv.org/abs/2206.02338). [Code](https://github.com/xk-huang/OrdinalCLIP).
+- CrowdCLIP(CVPR23). [Paper](https://arxiv.org/abs/2304.04231). [Code](https://github.com/dk-liang/CrowdCLIP).
+
 ## Citation
 
 If you use this code for your research, please cite our paper `<a href="https://arxiv.org/abs/2306.13856">`L2RCLIP: Boosting Language-Driven Ordering Alignment for Ordinal Classification`</a>`:
